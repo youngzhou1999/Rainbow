@@ -16,7 +16,7 @@ And, using above tricks to code for Rainbow.
 
 ## 2. Results
 
-I trained this codes in pong so far. The basic hyper parameters are as below:
+I trained these codes in pong so far. The basic hyper parameters are as below:
 
 ```python
 SEED = 123
